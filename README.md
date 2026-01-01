@@ -1,4 +1,4 @@
-[Open in Colab](https://colab.research.google.com/github/USERNAME/REPO/blob/main/gradcam_chestxray.ipynb)
+[Open in Colab](https://colab.research.google.com/drive/1jgDBripN8bLtnloKipJzZIATH0I2kC8l?usp=sharing)
 
 # Explainable Chest X-ray Pneumonia Detection
 
