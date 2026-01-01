@@ -9,7 +9,7 @@ This repository contains a small research prototype developed to explore explain
 - Model: ResNet18 (pretrained)
 - Explainability: Grad-CAM visual explanations
 - Goal: Improve transparency and clinical interpretability
-- 
+
 ## Input and Output
 **Input:**  
 - Single chest X-ray image (frontal view)
