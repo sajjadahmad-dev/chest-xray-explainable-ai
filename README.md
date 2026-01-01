@@ -18,7 +18,7 @@ This repository contains a small research prototype developed to explore explain
 - Binary classification: *Normal* or *Pneumonia*  
 - Grad-CAM heatmap highlighting lung regions that most influenced the model’s prediction  
 - Textual, knowledge-guided explanation generated using a lightweight LLM
-- 
+
 ## Motivation
 Rather than focusing only on accuracy, this prototype explores how visual explanations can help align model predictions with clinically meaningful regions in medical images.
 
