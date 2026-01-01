@@ -9,7 +9,16 @@ This repository contains a small research prototype developed to explore explain
 - Model: ResNet18 (pretrained)
 - Explainability: Grad-CAM visual explanations
 - Goal: Improve transparency and clinical interpretability
+- 
+## Input and Output
+**Input:**  
+- Single chest X-ray image (frontal view)
 
+**Output:**  
+- Binary classification: *Normal* or *Pneumonia*  
+- Grad-CAM heatmap highlighting lung regions that most influenced the model’s prediction  
+- Textual, knowledge-guided explanation generated using a lightweight LLM
+- 
 ## Motivation
 Rather than focusing only on accuracy, this prototype explores how visual explanations can help align model predictions with clinically meaningful regions in medical images.
 
